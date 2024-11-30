@@ -1,0 +1,8 @@
+----------------------------------------------------------
+Naive Bayes Summary Statistics
+----------------------------------------------------------
+Data Set : dataset\breast+cancer+wisconsin+original\breast-cancer-wisconsin.data
+
+Accuracy Statistics for All 5 Experiments:[0.93,0.94,0.91,0.91,0.92]
+
+Classification Accuracy : 92.11598988286575%
